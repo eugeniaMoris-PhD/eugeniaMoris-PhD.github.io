@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Evaluating sleep-stage classification: how age and early-late sleep affects classification performance."
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+slidesurl: 'https://link.springer.com/article/10.1007/s11517-023-02943-7'
+paperurl: 'https://arxiv.org/pdf/2310.13754'
+citation: 'Moris, E., & Larrabide, I. (2024). Evaluating sleep-stage classification: how age and early-late sleep affects classification performance. Medical & Biological Engineering & Computing, 62(2), 343-355.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Sleep stage classification is a common method used by experts to monitor the quantity and quality of sleep in humans, but it is a time-consuming and labour-intensive task with high inter- and intra-observer variability. Using wavelets for feature extraction and random forest for classification, an automatic sleep-stage classification method was sought and assessed. The age of the subjects, as well as the moment of sleep (early-night and late-night), were confronted to the performance of the classifier. From this study, we observed that these variables do affect the automatic model performance, improving the classification of some sleep stages and worsening others.
