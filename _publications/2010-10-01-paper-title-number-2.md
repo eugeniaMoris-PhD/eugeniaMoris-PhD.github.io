@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Assessing coarse-to-fine deep learning models for optic disc and cup segmentation in fundus images"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023-03-06
+venue: '18th International Symposium on Medical Information Processing and Analysis'
+slidesurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12567/125670R/Assessing-coarse-to-fine-deep-learning-models-for-optic-disc/10.1117/12.2670093.short'
+paperurl: 'https://arxiv.org/pdf/2209.14383'
+citation: 'Moris, E., Dazeo, N., de Rueda, M. P. A., Filizzola, F., Iannuzzo, N., Nejamkin, D., ... & Orlando, J. I. (2023, March). Assessing coarse-to-fine deep learning models for optic disc and cup segmentation in fundus images. In 18th International Symposium on Medical Information Processing and Analysis (Vol. 12567, pp. 232-241). SPIE.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Automated optic disc (OD) and optic cup (OC) segmentation in fundus images is relevant to efficiently measure the vertical cup-to-disc ratio (vCDR), a biomarker commonly used in ophthalmology to determine the degree of glaucomatous optic neuropathy. In general this is solved using coarse-to-fine deep learning algorithms in which a first stage approximates the OD and a second one uses a crop of this area to predict OD/OC masks. While this approach is widely applied in the literature, there are no studies analyzing its real contribution to the results. In this paper we present a comprehensive analysis of different coarse-to-fine designs for OD/OC segmentation using 5 public databases, both from a standard segmentation perspective and for estimating the vCDR for glaucoma assessment. Our analysis shows that these algorithms not necessarily outperfom standard multi-class single-stage models, especially when these are learned from sufficiently large and diverse training sets. Furthermore, we noticed that the coarse stage achieves better OD segmentation results than the fine one, and that providing OD supervision to the second stage is essential to ensure accurate OC masks. Moreover, both the single-stage and two-stage models trained on a multi-dataset setting showed results close to other state-of-the-art alternatives in REFUGE and DRISHTI. Finally, we evaluated the models for vCDR prediction in comparison with six ophthalmologists on a subset of AIROGS images, to understand them in the context of inter-observer variability. We noticed that vCDR estimates recovered both from single-stage and coarse-to-fine models can obtain good glaucoma detection results even when they are not highly correlated with manual measurements from experts.

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2023-11-06
 venue: 'Journal 1'
 slidesurl: 'https://link.springer.com/article/10.1007/s11517-023-02943-7'
 paperurl: 'https://arxiv.org/pdf/2310.13754'
