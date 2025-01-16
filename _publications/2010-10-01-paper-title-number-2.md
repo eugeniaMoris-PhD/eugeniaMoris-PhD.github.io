@@ -3,7 +3,7 @@ title: "Assessing coarse-to-fine deep learning models for optic disc and cup seg
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about OD and OC segmentation on fundus images'
 date: 2023-03-06
 venue: '18th International Symposium on Medical Information Processing and Analysis'
 slidesurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12567/125670R/Assessing-coarse-to-fine-deep-learning-models-for-optic-disc/10.1117/12.2670093.short'

@@ -3,7 +3,7 @@ title: "Evaluating sleep-stage classification: how age and early-late sleep affe
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Sleep stage classification is a common method used by experts to monitor the quantity and quality of sleep in humans, but it is a time-consuming and labour-intensive task with high inter- and intra-observer variability. Using wavelets for feature extraction and random forest for classification, an automatic sleep-stage classification method was sought and assessed. The age of the subjects, as well as the moment of sleep (early-night and late-night), were confronted to the performance of the classifier. From this study, we observed that these variables do affect the automatic model performance, improving the classification of some sleep stages and worsening others.'
 date: 2023-11-06
 venue: 'Journal 1'
 slidesurl: 'https://link.springer.com/article/10.1007/s11517-023-02943-7'
