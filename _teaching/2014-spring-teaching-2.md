@@ -1,12 +1,14 @@
 ---
-title: "Teaching assistant, Programming introduction"
+title: "Teaching assistant, Programming 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
-venue: "UNICEN, Systems Engineering"
-date: 2023-01-01
+permalink: #/teaching/2014-spring-teaching-2
+venue: "UNICEN, University Technician in Computer Application Development"
+date: 2022-01-01
 location: "Tandil, Argentina"
 ---
+
+
 
 * Assisted first-year students in practical exercises to develop foundational programming skills.
 * Guided students in understanding core programming concepts, including arrays, matrices, variables, and logical problem-solving.
