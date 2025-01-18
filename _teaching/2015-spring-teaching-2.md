@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching assistant, Programming introduction"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "UNICEN, Systems Engineering"
+date: 2024-01-01
+location: "Tandil, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Assisted first-year students in practical exercises to develop foundational programming skills.
+* Guided students in understanding core programming concepts, including arrays, matrices, variables, and logical problem-solving.
+* Fostered a collaborative learning environment by encouraging questions and providing tailored support to diverse learning needs.
+* Supported students in building confidence and autonomy in applying programming principles to real-world scenarios.
